@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amirah Zulfa
-- 👀 I’m interested in Computer Vision, Deep Learning, Machine Learning, Data Visualization, Predictive Modeling, Artificial Neural Networks.
+- 👀 I’m interested in Computer Vision, Deep Learning, Machine Learning, Data Visualization, Unsupervised Learning, Supervised Learning, Data Preprocessing, Transfer Learning.
 - 🌱 I'm passionate about exploring new technologies and their applications in Data Science and Deep Learning.
 - 📫 How to reach me: www.linkedin.com/in/amirah-zm
 
